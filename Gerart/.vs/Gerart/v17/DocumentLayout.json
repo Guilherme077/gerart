@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\GIT\\gerart\\Gerart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{992F095D-D136-4B03-83AC-0F89C926A768}|Gerart\\Gerart.csproj|g:\\git\\gerart\\gerart\\gerart\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{992F095D-D136-4B03-83AC-0F89C926A768}|Gerart\\Gerart.csproj|solutionrelative:gerart\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{992F095D-D136-4B03-83AC-0F89C926A768}|Gerart\\Gerart.csproj|g:\\git\\gerart\\gerart\\gerart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{992F095D-D136-4B03-83AC-0F89C926A768}|Gerart\\Gerart.csproj|solutionrelative:gerart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "G:\\GIT\\gerart\\Gerart\\Gerart\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Gerart\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "G:\\GIT\\gerart\\Gerart\\Gerart\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Gerart\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T00:17:09.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\GIT\\gerart\\Gerart\\Gerart\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Gerart\\Views\\Home\\Index.cshtml",
+              "ToolTip": "G:\\GIT\\gerart\\Gerart\\Gerart\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Gerart\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T00:15:56.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

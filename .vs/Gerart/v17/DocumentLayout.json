@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "G:\\GIT\\gerart\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6087F235-5649-4139-8C7A-84915E6CB554}|Gerart\\Gerart.csproj|g:\\git\\gerart\\gerart\\pages\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6087F235-5649-4139-8C7A-84915E6CB554}|Gerart\\Gerart.csproj|solutionrelative:gerart\\pages\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6087F235-5649-4139-8C7A-84915E6CB554}|Gerart\\Gerart.csproj|g:\\git\\gerart\\gerart\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6087F235-5649-4139-8C7A-84915E6CB554}|Gerart\\Gerart.csproj|solutionrelative:gerart\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6087F235-5649-4139-8C7A-84915E6CB554}|Gerart\\Gerart.csproj|g:\\git\\gerart\\gerart\\pages\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6087F235-5649-4139-8C7A-84915E6CB554}|Gerart\\Gerart.csproj|solutionrelative:gerart\\pages\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6087F235-5649-4139-8C7A-84915E6CB554}|Gerart\\Gerart.csproj|g:\\git\\gerart\\gerart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6087F235-5649-4139-8C7A-84915E6CB554}|Gerart\\Gerart.csproj|solutionrelative:gerart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6087F235-5649-4139-8C7A-84915E6CB554}|Gerart\\Gerart.csproj|g:\\git\\gerart\\gerart\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6087F235-5649-4139-8C7A-84915E6CB554}|Gerart\\Gerart.csproj|solutionrelative:gerart\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,13 +46,65 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "G:\\GIT\\gerart\\Gerart\\Pages\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "Gerart\\Pages\\Products\\Details.cshtml",
+              "ToolTip": "G:\\GIT\\gerart\\Gerart\\Pages\\Products\\Details.cshtml",
+              "RelativeToolTip": "Gerart\\Pages\\Products\\Details.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T21:28:48.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "G:\\GIT\\gerart\\Gerart\\Pages\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Gerart\\Pages\\Products\\Create.cshtml",
+              "ToolTip": "G:\\GIT\\gerart\\Gerart\\Pages\\Products\\Create.cshtml",
+              "RelativeToolTip": "Gerart\\Pages\\Products\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T21:28:09.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "G:\\GIT\\gerart\\Gerart\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Gerart\\Models\\Product.cs",
+              "ToolTip": "G:\\GIT\\gerart\\Gerart\\Models\\Product.cs",
+              "RelativeToolTip": "Gerart\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:27:40.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\GIT\\gerart\\Gerart\\appsettings.json",
+              "RelativeDocumentMoniker": "Gerart\\appsettings.json",
+              "ToolTip": "G:\\GIT\\gerart\\Gerart\\appsettings.json",
+              "RelativeToolTip": "Gerart\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-08T01:38:48.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "G:\\GIT\\gerart\\Gerart\\Program.cs",
               "RelativeDocumentMoniker": "Gerart\\Program.cs",
               "ToolTip": "G:\\GIT\\gerart\\Gerart\\Program.cs",
               "RelativeToolTip": "Gerart\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-08T01:31:13.815Z",
               "EditorCaption": ""
