@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Editar Produto";
+}
+
+<div class="text-center">
+
+    <h1>Editar Produto</h1>
+
+
+
+</div>
+
+<form>
+    <div class="mb-3">
+        <label for="name" class="form-label">Nome</label>
+        <input type="text" class="form-control" id="exampleInputName" aria-describedby="nameHelp" placeholder="Nome do produto">
+    </div>
+    <div class="mb-3">
+        <label for="description" class="form-label">Descrição</label>
+        <input type="text" class="form-control" id="exampleInputDescription" aria-describedby="descriptionHelp" placeholder="Descrição breve do produto">
+    </div>
+    <div class="mb-3">
+        <label for="price" class="form-label">Preço</label>
+        <input type="number" step="0.01" class="form-control" id="exampleInputPrice" aria-describedby="priceHelp" placeholder="32,65">
+    </div>
+    <div class="mb-3 form-check">
+        <input type="checkbox" class="form-check-input" id="useQuantity">
+        <label class="form-check-label" for="useQuantity" aria-describedby="useQuantityHelp">Considerar Estoque</label>
+        <div id="useQuantityHelp" class="form-text">Se desmarcado, o estoque não será considerado em ações de entrega ou pedidos</div>
+    </div>
+    <div class="mb-3">
+        <label for="quantity" class="form-label">Quantidade em estoque</label>
+        <input type="number" class="form-control" id="exampleInputQuantity" aria-describedby="quantityHelp" placeholder="5">
+    </div>
+    <button type="submit" class="btn btn-primary">Editar</button>
+</form>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gerart")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59666c62f9b5e61201e1fdb9897e3ea71b21a6a3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36565cd4eb4e0880d53fe10b63e61267fa7a1e50")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gerart")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gerart")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
