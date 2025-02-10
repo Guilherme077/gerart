@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "G:\\GIT\\gerart\\Gerart\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{992F095D-D136-4B03-83AC-0F89C926A768}|Gerart\\Gerart.csproj|g:\\git\\gerart\\gerart\\gerart\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{992F095D-D136-4B03-83AC-0F89C926A768}|Gerart\\Gerart.csproj|solutionrelative:gerart\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{992F095D-D136-4B03-83AC-0F89C926A768}|Gerart\\Gerart.csproj|g:\\git\\gerart\\gerart\\gerart\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{992F095D-D136-4B03-83AC-0F89C926A768}|Gerart\\Gerart.csproj|solutionrelative:gerart\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{992F095D-D136-4B03-83AC-0F89C926A768}|Gerart\\Gerart.csproj|g:\\git\\gerart\\gerart\\gerart\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{992F095D-D136-4B03-83AC-0F89C926A768}|Gerart\\Gerart.csproj|solutionrelative:gerart\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,27 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "G:\\GIT\\gerart\\Gerart\\Gerart\\Views\\Product\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Gerart\\Views\\Product\\Delete.cshtml",
-              "ToolTip": "G:\\GIT\\gerart\\Gerart\\Gerart\\Views\\Product\\Delete.cshtml",
-              "RelativeToolTip": "Gerart\\Views\\Product\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-09T18:50:10.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "G:\\GIT\\gerart\\Gerart\\Gerart\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "Gerart\\Views\\Product\\Index.cshtml",
-              "ToolTip": "G:\\GIT\\gerart\\Gerart\\Gerart\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "Gerart\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAABsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-09T00:30:20.044Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\GIT\\gerart\\Gerart\\Gerart\\appsettings.json",
+              "RelativeDocumentMoniker": "Gerart\\appsettings.json",
+              "ToolTip": "G:\\GIT\\gerart\\Gerart\\Gerart\\appsettings.json",
+              "RelativeToolTip": "Gerart\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-10T01:23:24.962Z",
               "EditorCaption": ""
             }
           ]
